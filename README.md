@@ -24,7 +24,7 @@ Ce projet réunit l'ensemble des données que j'utilise dans mes cours.
 | [Papillon1](Papillon1.csv) ||
 | [pendigits train](pendigits.tra) | avec aussi le fichier [test](pendigits.tes) |
 | [Recensement](Recensement_12.csv) ||
-| [Scimajor](scimajor) | répertoire |
+| [scimagojr](scimagojr) | répertoire |
 | [the](the.csv) ||
 | [tips](tips.csv) | Données de la librairie R `ggplot2` |
 | [txhousing](tx-housing.csv) | Données de la librairie R `ggplot2` |
