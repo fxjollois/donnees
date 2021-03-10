@@ -1,6 +1,7 @@
 library(readxl)
+library(stringr)
 
-fichier = dir()
+fichier = dir(pattern = "scimagojr [0-9]+.xlsx")
 
 liste = lapply(fichier, function(f) {
   annee = str_split(str_split(f, " ")[[1]][2], "\\.")[[1]][1]
@@ -13,5 +14,6 @@ res = Reduce(function(a, b) {
 }, liste)
 
 library(xlsx)
-write.xlsx(res, "../scimagojr.xlsx", sheetName = "All",
+write.xlsx(res, "scimagojr.xlsx", sheetName = "All",
            col.names = TRUE, row.names = FALSE, append = FALSE)
+write.csv(res, "scimajor.csv", row.names = FALSE)
