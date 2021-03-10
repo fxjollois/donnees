@@ -16,4 +16,4 @@ res = Reduce(function(a, b) {
 library(xlsx)
 write.xlsx(res, "scimagojr.xlsx", sheetName = "All",
            col.names = TRUE, row.names = FALSE, append = FALSE)
-write.csv(res, "scimajor.csv", row.names = FALSE)
+write.csv(res, "scimagojr.csv", row.names = FALSE)
