@@ -6,8 +6,8 @@ Formats disponibles :
 
 - [SQL](world.sql)
 - [SQLite](world.sqlite)
-- [RData](world.RData)
-- [RData en liste](world-liste.RData)
+- [RData](world.Rdata)
+- [RData en liste](world-liste.Rdata)
 - [Cassandra CQL](world.cql)
 - [JSON](world.json)
 - [MongoDB](world.mongodb)

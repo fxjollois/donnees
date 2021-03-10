@@ -7,19 +7,19 @@ Ce projet réunit l'ensemble des données que j'utilise dans mes cours.
 | Lien | Commentaires |
 |-|-|
 | [adult](adult.data) | plus d'infos dans ce [fichier](adult.names) |
-| [AirBnB Paris 02/09/2015](airbnb-paris-2015-09-02-summary.csv) | avec des données [plus complètes](airbnb-paris-2015-09-02.csv) et les contours des arrondissements en [geojson](airbnb-paris-2015-09-02-neighbourhoods.geojson) |
+| [AirBnB Paris 02/09/2015](airbnb-paris-2015-09-02) | répertoire |
 | [Computers](Computers.csv) | |
 | [Detroit_homicide](Detroit_homicide.txt) ||
 | [diamonds](diamonds.csv) | Données de la librairie R `ggplot2` |
 | [femme_travail](femme_travail.csv) ||
 | [fertility](fertility.csv) ||
-| [heart](heart.txt) | avec une [version bis](heart_bis.TXT) |
+| [heart](heart.txt) | avec une [version bis](heart_bis.txt) |
 | [Iris.txt](Iris.txt) | Aussi en [xlsx](Iris.xlsx) et au [format SAS](Iris.sas7bdat), et une [version bis](Iris_bis.txt) |
 | [media.csv](media.csv) | |
 | [medicaments](medicaments) | répertoire (BD médicaments au 9/11/2016) |
 | [mpg.csv](mpg.csv) | |
 | [NBA](nba--player-stats--regular-season-2016-2017.csv) | Stats par joueur de la saison 2016-2017 |
-| [ocdeR](ocdeR.data) | |
+| [ocdeR](ocdeR.dat) | |
 | [OGM](ogm.csv) ||
 | [Papillon1](Papillon1.csv) ||
 | [pendigits train](pendigits.tra) | avec aussi le fichier [test](pendigits.tes) |
@@ -47,10 +47,10 @@ Certaines BD ont différents formats
 |-|-|
 | [booktown.sql](booktown.sql) | script SQL |
 | [ca](ca) | répertoire |
-| [Chinook](Chiinook) | répertoire |
+| [Chinook](Chinook) | répertoire |
 | [Comptoir 2000](Comptoir2000) | répertoire |
-| [Gymnase 2000](Cymnase2000) | répertoire |
-| [sakila](saklia.sqlite) | SQLite |
+| [Gymnase 2000](Gymnase2000) | répertoire |
+| [sakila](sakila.sqlite) | SQLite |
 | [World](World) | répertoire |
 | [xtreme](xtreme.mdb) | MDB |
 
