@@ -8,12 +8,12 @@ Formats disponibles :
 - [json](ca.json)
 - [RData](ca.RData)
 - [SQLite](ca.sqlite)
-- [CSV](csv)
+- CSV
     + [ca](csv/ca.csv)
     + [groupe](csv/groupe.csv)
     + [mois](csv/mois.csv)
     + [provenance](csv/provenance.csv)
-- [SAS](sas)
+- SAS
     + [ca](sas/ca.sas7bdat)
     + [groupe](sas/groupe.sas7bdat)
     + [mois](sas/mois.sas7bdat)
