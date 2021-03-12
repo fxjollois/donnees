@@ -37,7 +37,8 @@ Ce projet réunit l'ensemble des données que j'utilise dans mes cours.
 | [airbnb.json](airbnb.json) ||
 | [arrondissements.geojson](arrondissements.geojson) ||
 | [movies.json](movies.json) ||
-| [restaurants](restaurants.json) | De New-York|
+| [restaurants](restaurants.json) | De New-York |
+| [quartiers de NY](restaurants-boroughs.geojson) | GeoJSON des quartiers de NY |
 
 ## Données type base de données 
 
