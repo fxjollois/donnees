@@ -29,6 +29,7 @@ Ce projet réunit l'ensemble des données que j'utilise dans mes cours.
 | [tips](tips.csv) | Données de la librairie R `ggplot2` |
 | [txhousing](tx-housing.csv) | Données de la librairie R `ggplot2` |
 | [US_DATA](US_DATA.csv) | Données SAS |
+| [WGI](WGI/wgi2019.csv) | Worldwide Governance Indicators | 
 
 ## Données au format `json` (ou `geojson`)
 
