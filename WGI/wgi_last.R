@@ -8,7 +8,7 @@ year = str_sub(as.character(read_excel("wgidataset-2019.xlsx")[1,1]), -4)
 wgi_last = Reduce(
   function(a, b) { return (a %>% full_join(b))}, 
   lapply(
-    2:6, 
+    2:7, 
     function(i) {
       wgi = read_excel("wgidataset-2019.xlsx", sheet = i, skip = 15, col_names = FALSE, na = "#N/A")
       indicator = as.character(read_excel("wgidataset-2019.xlsx", sheet = i, col_names = FALSE, range = "A1"))
