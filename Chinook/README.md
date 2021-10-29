@@ -3,6 +3,7 @@
 A faire : mettre le schéma
 
 - [SQLite](Chinook_Sqlite.sqlite)
+- [RData](Chinook.RData)
 - csv
     - [Album](csv/Album.csv)
     - [Artist](csv/Artist.csv)
