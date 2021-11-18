@@ -53,6 +53,7 @@ Certaines BD ont différents formats
 | [Comptoir 2000](Comptoir2000) | répertoire |
 | [Gymnase 2000](Gymnase2000) | répertoire |
 | [sakila](sakila.sqlite) | SQLite |
+| [Star Wars API](SWAPI) | répertoire |
 | [World](World) | répertoire |
 | [xtreme](xtreme.mdb) | MDB |
 
