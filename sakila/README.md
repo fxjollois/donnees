@@ -1,0 +1,43 @@
+# sakila database
+
+Source : <https://dev.mysql.com/doc/sakila/en/>
+
+![sakila schema](https://fxjollois.github.io/cours-sql/bases/sakila.png)
+
+Formats disponibles :
+
+- [SQLite](sakila.sqlite)
+- [RData](sakila.RData)
+- [SQL](sakila.sql) (dump à partir de SQLite)
+- SAS (en un [seul fichier zippé](sakila_sas.zip))
+  - [actor](sas/actor.sas7bdat)
+  - [address](sas/address.sas7bdat)
+  - [category](sas/category.sas7bdat)
+  - [city](sas/city.sas7bdat)
+  - [country](sas/country.sas7bdat)
+  - [customer](sas/customer.sas7bdat)
+  - [film](sas/film.sas7bdat)
+  - [film_actor](sas/film_actor.sas7bdat)
+  - [film_category](sas/film_category.sas7bdat)
+  - [inventory](sas/inventory.sas7bdat)
+  - [language](sas/language.sas7bdat)
+  - [payment](sas/payment.sas7bdat)
+  - [rental](sas/rental.sas7bdat)
+  - [staff](sas/staff.sas7bdat)
+  - [store](sas/store.sas7bdat)
+- CSV (en un [seul fichier zippé](sakila_csv.zip))
+  - [actor](csv/actor.csv)
+  - [address](csv/address.csv)
+  - [category](csv/category.csv)
+  - [city](csv/city.csv)
+  - [country](csv/country.csv)
+  - [customer](csv/customer.csv)
+  - [film](csv/film.csv)
+  - [film_actor](csv/film_actor.csv)
+  - [film_category](csv/film_category.csv)
+  - [inventory](csv/inventory.csv)
+  - [language](csv/language.csv)
+  - [payment](csv/payment.csv)
+  - [rental](csv/rental.csv)
+  - [staff](csv/staff.csv)
+  - [store](csv/store.csv)
