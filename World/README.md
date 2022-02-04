@@ -10,5 +10,5 @@ Formats disponibles :
 - [RData en liste](world-liste.Rdata)
 - [Cassandra CQL](world.cql)
 - [JSON](world.json)
-- [MongoDB](world.mongodb)
+- [MongoDB JSON](world-mongodb.json)
 
