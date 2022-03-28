@@ -1,0 +1,819 @@
+[{
+  "_id": "566eec69662b388eba464299",
+  "IdGymnase": 1,
+  "NomGymnase": "PAUL ELUARD",
+  "Adresse": "2 rue des pépines",
+  "Ville": "STAINS",
+  "Surface": 200,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Samedi",
+      "Horaire": 9,
+      "Duree": 60,
+      "Libelle": "Basket ball"
+    },
+    {
+      "IdSportifEntraineur": 1,
+      "Jour": "Lundi",
+      "Horaire": 9,
+      "Duree": 60,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 1,
+      "Jour": "Lundi",
+      "Horaire": 10,
+      "Duree": 60,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 1,
+      "Jour": "Lundi",
+      "Horaire": 11.3,
+      "Duree": 60,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 1,
+      "Jour": "Lundi",
+      "Horaire": 14,
+      "Duree": 90,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 1,
+      "Jour": "lundi",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 1,
+      "Jour": "Lundi",
+      "Horaire": 19.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "Dimanche",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "Dimanche",
+      "Horaire": 19.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "mardi",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "mercredi",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "Samedi",
+      "Horaire": 15.3,
+      "Duree": 60,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "Samedi",
+      "Horaire": 16.3,
+      "Duree": 60,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 2,
+      "Jour": "Samedi",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "jeudi",
+      "Horaire": 20,
+      "Duree": 30,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "lundi",
+      "Horaire": 14,
+      "Duree": 60,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "lundi",
+      "Horaire": 18,
+      "Duree": 30,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "lundi",
+      "Horaire": 19,
+      "Duree": 30,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "lundi",
+      "Horaire": 20,
+      "Duree": 30,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mercredi",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba46429a",
+  "IdGymnase": 2,
+  "NomGymnase": "ARAGON",
+  "Adresse": "Place du Chartres",
+  "Ville": "MONTMORENCY",
+  "Surface": 450,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba46429b",
+  "IdGymnase": 3,
+  "NomGymnase": "SAINT EXUPERY",
+  "Adresse": "47 bvd des brumes",
+  "Ville": "PIERREFITTE",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Mercredi",
+      "Horaire": 11,
+      "Duree": 30,
+      "Libelle": "Basket ball"
+    },
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "jeudi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba46429c",
+  "IdGymnase": 4,
+  "NomGymnase": "PAUL ELUARD",
+  "Adresse": "Allée J.B. Lulli",
+  "Ville": "SARCELLES",
+  "Surface": 500,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Vendredi",
+      "Horaire": 10,
+      "Duree": 30,
+      "Libelle": "Basket ball"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "mercredi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba46429d",
+  "IdGymnase": 5,
+  "NomGymnase": "BRASSENS",
+  "Adresse": "153 square Loliot",
+  "Ville": "SARCELLES",
+  "Surface": 620,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "jeudi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba46429e",
+  "IdGymnase": 6,
+  "NomGymnase": "VERLAINE",
+  "Adresse": "14 bvd Serrault",
+  "Ville": "STAINS",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "vendredi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "jeudi",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba46429f",
+  "IdGymnase": 7,
+  "NomGymnase": "JULES FERRY",
+  "Adresse": "45 rue de la gare",
+  "Ville": "PIERREFITTE",
+  "Surface": 360
+},{
+  "_id": "566eec69662b388eba4642a0",
+  "IdGymnase": 8,
+  "NomGymnase": "PREVERT",
+  "Adresse": "12 rue des collines",
+  "Ville": "MONTMORENCY",
+  "Surface": 420,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "vendredi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "samedi",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "vendredi",
+      "Horaire": 14,
+      "Duree": 120,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a1",
+  "IdGymnase": 9,
+  "NomGymnase": "CAMUS",
+  "Adresse": "3 esplanade des quatrans",
+  "Ville": "SARCELLES",
+  "Surface": 620,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "samedi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a2",
+  "IdGymnase": 10,
+  "NomGymnase": "RIMBAUD",
+  "Adresse": "140 bvd Diderot",
+  "Ville": "STAINS",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "samedi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "dimanche",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a3",
+  "IdGymnase": 11,
+  "NomGymnase": "LAMARTINE",
+  "Adresse": "7 rue de la souris verte",
+  "Ville": "PIERREFITTE",
+  "Surface": 300
+},{
+  "_id": "566eec69662b388eba4642a4",
+  "IdGymnase": 12,
+  "NomGymnase": "MOZART",
+  "Adresse": "6 Allée Rosana",
+  "Ville": "MONTMORENCY",
+  "Surface": 480,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a5",
+  "IdGymnase": 13,
+  "NomGymnase": "RAVEL",
+  "Adresse": "Place aux pommes",
+  "Ville": "STAINS",
+  "Surface": 200,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "dimanche",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "mercredi",
+      "Horaire": 20,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "lundi",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a6",
+  "IdGymnase": 14,
+  "NomGymnase": "CHOPIN",
+  "Adresse": "23 rue Carafelli",
+  "Ville": "MONTMORENCY",
+  "Surface": 500,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Mardi",
+      "Horaire": 10,
+      "Duree": 60,
+      "Libelle": "Basket ball"
+    },
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a7",
+  "IdGymnase": 15,
+  "NomGymnase": "BREL",
+  "Adresse": "4 rue de la miséricorde",
+  "Ville": "PIERREFITTE",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a8",
+  "IdGymnase": 16,
+  "NomGymnase": "SAMOURAI",
+  "Adresse": "4 Allée des pendules",
+  "Ville": "SARCELLES",
+  "Surface": 600,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "Lundi",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "Lundi",
+      "Horaire": 18,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "lundi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "Lundi",
+      "Horaire": 20,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "mercredi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642a9",
+  "IdGymnase": 17,
+  "NomGymnase": "GARCIA LORCA",
+  "Adresse": "45 bvd des Comes",
+  "Ville": "STAINS",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "samedi",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "vendredi",
+      "Horaire": 17.3,
+      "Duree": 120,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "dimanche",
+      "Horaire": 18,
+      "Duree": 30,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 3,
+      "Jour": "mardi",
+      "Horaire": 20,
+      "Duree": 30,
+      "Libelle": "Hand ball"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mardi",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642aa",
+  "IdGymnase": 18,
+  "NomGymnase": "PABLO NERUDA",
+  "Adresse": "6 rue saint Jean",
+  "Ville": "PIERREFITTE",
+  "Surface": 450,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "mardi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mercredi",
+      "Horaire": 14,
+      "Duree": 120,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mercredi",
+      "Horaire": 16,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642ab",
+  "IdGymnase": 19,
+  "NomGymnase": "COCTEAU",
+  "Adresse": "45 bis rue du moulin rouge",
+  "Ville": "MONTMORENCY",
+  "Surface": 500,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642ac",
+  "IdGymnase": 20,
+  "NomGymnase": "LUMIERES",
+  "Adresse": "78 rue Vendôme",
+  "Ville": "SARCELLES",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "mercredi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642ad",
+  "IdGymnase": 21,
+  "NomGymnase": "SIMON",
+  "Adresse": "8 bvd général de Gaulle",
+  "Ville": "STAINS",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "lundi",
+      "Horaire": 16.3,
+      "Duree": 30,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 60,
+      "Jour": "mardi",
+      "Horaire": 19,
+      "Duree": 60,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mercredi",
+      "Horaire": 17,
+      "Duree": 30,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642ae",
+  "IdGymnase": 22,
+  "NomGymnase": "BARBARA",
+  "Adresse": "45  rue du bossu",
+  "Ville": "SAINT DENIS",
+  "Surface": 500,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "mardi",
+      "Horaire": 10,
+      "Duree": 30,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642af",
+  "IdGymnase": 23,
+  "NomGymnase": "ARAGON",
+  "Adresse": "10 Bvd Lenoir",
+  "Ville": "SAINT DENIS",
+  "Surface": 520
+},{
+  "_id": "566eec69662b388eba4642b0",
+  "IdGymnase": 24,
+  "NomGymnase": "BELFEGOR",
+  "Adresse": "Place de Gaulle",
+  "Ville": "SAINT DENIS",
+  "Surface": 450,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Jeudi",
+      "Horaire": 9,
+      "Duree": 90,
+      "Libelle": "Basket ball"
+    },
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "mercredi",
+      "Horaire": 10,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642b1",
+  "IdGymnase": 25,
+  "NomGymnase": "DOLTO",
+  "Adresse": "3 square Plaisir",
+  "Ville": "VILLETANEUSE",
+  "Surface": 620,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Dimanche",
+      "Horaire": 18,
+      "Duree": 60,
+      "Libelle": "Basket ball"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642b2",
+  "IdGymnase": 26,
+  "NomGymnase": "MERMOZ",
+  "Adresse": "41 rue des ponts",
+  "Ville": "VILLETANEUSE",
+  "Surface": 600
+},{
+  "_id": "566eec69662b388eba4642b3",
+  "IdGymnase": 27,
+  "NomGymnase": "PASCAL",
+  "Adresse": "20 rue de la pirogue",
+  "Ville": "VILLETANEUSE",
+  "Surface": 350,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 57,
+      "Jour": "jeudi",
+      "Horaire": 10,
+      "Duree": 90,
+      "Libelle": "Volley ball"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mercredi",
+      "Horaire": 14,
+      "Duree": 120,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mercredi",
+      "Horaire": 17,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+},{
+  "_id": "566eec69662b388eba4642b4",
+  "IdGymnase": 28,
+  "NomGymnase": "BLAISE PASCAL",
+  "Adresse": "2bis rue de la moulerie",
+  "Ville": "GARGES",
+  "Surface": 400,
+  "Seances": [
+    {
+      "IdSportifEntraineur": 149,
+      "Jour": "Lundi",
+      "Horaire": 9,
+      "Duree": 30,
+      "Libelle": "Basket ball"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "dimanche",
+      "Horaire": 14,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "dimanche",
+      "Horaire": 15,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "dimanche",
+      "Horaire": 16,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 6,
+      "Jour": "dimanche",
+      "Horaire": 17,
+      "Duree": 60,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "mardi",
+      "Horaire": 18,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "samedi",
+      "Horaire": 18,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    },
+    {
+      "IdSportifEntraineur": 7,
+      "Jour": "vendredi",
+      "Horaire": 18,
+      "Duree": 90,
+      "Libelle": "Hockey"
+    }
+  ]
+}]
