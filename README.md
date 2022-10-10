@@ -7,13 +7,14 @@ Ce projet réunit l'ensemble des données que j'utilise dans mes cours.
 | Lien | Commentaires |
 |-|-|
 | [adult](adult.data) | plus d'infos dans ce [fichier](adult.names) |
-| [AirBnB Paris 02/09/2015](airbnb-paris-2015-09-02) | répertoire |
+| [AirBnB Paris 02/09/2015](airBnB-2015-09-02) | répertoire |
 | [Computers](Computers.csv) | |
 | [Detroit_homicide](Detroit_homicide.txt) ||
 | [diamonds](diamonds.csv) | Données de la librairie R `ggplot2` |
 | [femme_travail](femme_travail.csv) ||
 | [fertility](fertility.csv) ||
 | [heart](heart.txt) | avec une [version bis](heart_bis.txt) |
+| [Régions et CSP](regions-csp) | via les données de l'INSEE |
 | [Iris.txt](Iris.txt) | Aussi en [xlsx](Iris.xlsx) et au [format SAS](Iris.sas7bdat), et une [version bis](Iris_bis.txt) |
 | [media.csv](media.csv) | |
 | [medicaments](medicaments) | répertoire (BD médicaments au 9/11/2016) |
