@@ -26,6 +26,7 @@ Ce projet réunit l'ensemble des données que j'utilise dans mes cours.
 | [pendigits train](pendigits.tra) | avec aussi le fichier [test](pendigits.tes) |
 | [Recensement](Recensement_12.csv) ||
 | [scimagojr](scimagojr) | répertoire |
+| [Spotify](spotify_dataset.csv) | [Source : Kaggle](https://www.kaggle.com/datasets/akiboy96/spotify-dataset)|
 | [the](the.csv) ||
 | [tips](tips.csv) | Données de la librairie R `ggplot2` |
 | [txhousing](tx-housing.csv) | Données de la librairie R `ggplot2` |
